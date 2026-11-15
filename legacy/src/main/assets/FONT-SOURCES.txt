@@ -1,0 +1,8 @@
+retro-sans.ttf: Noto Sans SC, weight 400, static TrueType derived from
+https://github.com/notofonts/noto-cjk/blob/main/Sans/Variable/TTF/Subset/NotoSansSC-VF.ttf
+SIL Open Font License 1.1; see Noto-OFL.txt.
+Rebuild: tools/build-body-font.py <upstream.ttf> using fontTools.
+Static outlines and a cached Typeface are used for legacy Android compatibility.
+
+retro-dots.ttf: project-authored 5x7 dot patterns, expanded with A-Z and 0-9.
+Rebuild: tools/build-dot-font.py. No Nothing proprietary font files are included.

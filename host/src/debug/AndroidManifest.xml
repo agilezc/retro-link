@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+ <instrumentation android:name="org.retrolink.host.ReplyDetectorChecks" android:targetPackage="org.retrolink.host" android:label="Read-only reply detector checks"/>
+<instrumentation android:name="org.retrolink.host.ChatGptRelayChecks" android:targetPackage="org.retrolink.host" android:label="ChatGPT relay checks"/><instrumentation android:name="org.retrolink.host.NoteQueueChecks" android:targetPackage="org.retrolink.host" android:label="Isolated note queue checks"/></manifest>

@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"><uses-permission android:name="android.permission.BLUETOOTH"/><uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/><uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+<uses-permission android:name="android.permission.RECORD_AUDIO"/>
+<uses-feature android:name="android.hardware.microphone" android:required="false"/>
+<uses-feature android:name="android.hardware.bluetooth" android:required="true"/>
+<application android:icon="@android:drawable/ic_media_play" android:label="Retro Link 音乐" android:theme="@style/RetroTheme" android:allowBackup="false">
+<activity android:name=".MainActivity" android:exported="true"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity>
+<activity android:name=".PanelActivity" android:exported="false"/><activity android:name=".MusicActivity" android:exported="false"/><activity android:name=".ToolsActivity" android:exported="false"/><activity android:name=".AgendaActivity" android:exported="false"/><activity android:name=".NoteActivity" android:exported="false"/><activity android:name=".ChatGptActivity" android:exported="false"/><activity android:name=".MessagesActivity" android:exported="false"/><service android:name=".LinkService" android:exported="false" /></application></manifest>
