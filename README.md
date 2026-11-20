@@ -2,6 +2,19 @@
 
 [English](README.en.md)
 
+## 下载安装 · v1.0.0
+
+**两台手机各装一个对应版本。点击下面的链接即可下载 APK。**
+
+| 安装在哪台手机 | 下载 |
+| --- | --- |
+| **主手机** · Nothing 等现代安卓手机，Android 8 及以上 | **[下载主手机版 APK](https://github.com/agilezc/retro-link/releases/download/v1.0.0/RetroLink-Host-1.0.0.apk)** |
+| **老手机** · Xperia pro 等老安卓手机，Android 2.3 及以上 | **[下载老手机版 APK](https://github.com/agilezc/retro-link/releases/download/v1.0.0/RetroLink-Legacy-1.0.0.apk)** |
+
+下载后在对应手机上打开 APK，按系统提示允许安装。安装完成后，在系统蓝牙设置中配对两台手机。
+
+[查看版本说明和全部安装包](https://github.com/agilezc/retro-link/releases/tag/v1.0.0)
+
 **把退役安卓手机变成主手机的随身操作终端。** 播放音乐、看日程、记一句话、拍一张照片，都可以从老手机完成。现代主手机负责后台接收和处理，平时可以锁屏放在口袋里。两台手机通过已配对的经典蓝牙直接连接，日常使用无需电脑或同一路由器。
 
 Retro Link 目前有两个 Android 应用。参考组合是 **Sony Ericsson Xperia pro MK16i（Android 2.3.4）＋ Nothing Phone (3a)（Android 16）**。
