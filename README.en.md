@@ -2,6 +2,19 @@
 
 [简体中文](README.md)
 
+## Download and install · v1.0.0
+
+**Install the matching app on each phone. Click a link below to download the APK directly.**
+
+| Install on | Download |
+| --- | --- |
+| **Primary phone** · Nothing or another modern Android phone, Android 8 or later | **[Download primary-phone APK](https://github.com/agilezc/retro-link/releases/download/v1.0.0/RetroLink-Host-1.0.0.apk)** |
+| **Older phone** · Xperia pro or another older Android phone, Android 2.3 or later | **[Download older-phone APK](https://github.com/agilezc/retro-link/releases/download/v1.0.0/RetroLink-Legacy-1.0.0.apk)** |
+
+Open each APK on its intended phone and allow installation when prompted. Once installed, pair the two phones in Android Bluetooth settings.
+
+[View release notes and all downloads](https://github.com/agilezc/retro-link/releases/tag/v1.0.0)
+
 **Turn a retired Android phone into a handheld companion for your primary phone.** Control music, check your calendar, jot down a thought, or take a photo from the older device. The modern phone handles background work and can stay locked in your pocket. The two phones connect directly over paired Bluetooth Classic. Daily use requires neither a computer nor a shared Wi-Fi network.
 
 Retro Link has two Android apps. The reference pair is **Sony Ericsson Xperia pro MK16i (Android 2.3.4) + Nothing Phone (3a) (Android 16)**.
